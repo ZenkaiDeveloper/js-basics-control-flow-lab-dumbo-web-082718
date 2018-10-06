@@ -1,9 +1,9 @@
 function scuberGreetingForFeet(distance){
   if(distance>2500){
     "No can do.";
-  }elsif(distance<=400);{
+  }else if(distance<=400){
     "This one is on me!";
-  }elsif(distance>=2000);{
+  }else if(distance>=2000){
     "I will gladly take your thirty bucks.";
   }
 }
