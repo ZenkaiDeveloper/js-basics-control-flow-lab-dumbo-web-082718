@@ -14,6 +14,8 @@ function ternaryCheckCity(city){
 }
 
 function switchOnCharmFromTip(phrase){
-  switch (expression)
+  switch (expression){
+    
+  }
   
 }
