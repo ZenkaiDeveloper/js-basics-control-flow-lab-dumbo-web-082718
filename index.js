@@ -1,4 +1,3 @@
-
 function scuberGreetingForFeet(distance){
   if(distance>2500){
     "No can do.";
@@ -18,7 +17,8 @@ function switchOnCharmFromTip(phrase){
     case 'generous':
       'Thank you so much.'
       break;
-    case 
+    case 'not as generous';
+      
   }
   
 }
