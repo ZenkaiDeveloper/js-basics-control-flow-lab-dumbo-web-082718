@@ -1,5 +1,5 @@
 // Write your code in this file!
-// //eet(199)).to.equal('This one is on me!');
+//et(199)).to.equal('This one is on me!');
 //     });
 
 //     it('charges 30 dollars for a distance over 2000 feet', function () {
@@ -11,5 +11,5 @@
 //     });
 //   });
 function scuberGreetingForFeet(distance){
-  
+  if(distance)
 }
