@@ -10,7 +10,7 @@ function scuberGreetingForFeet(distance){
 
 function ternaryCheckCity(city){
   var resp = "";
-  city === "NYC" ? resp = "Okay, sounds good." : resp = "no go.";
+  city === "NYC" ? resp = "Ok, sounds good." : resp = "no go.";
   return resp;
 }
 
