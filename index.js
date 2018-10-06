@@ -14,6 +14,6 @@ function ternaryCheckCity(city){
 }
 
 function switchOnCharmFromTip(phrase){
-  case phrase 
+  switch:
   
 }
