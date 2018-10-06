@@ -15,10 +15,12 @@ function ternaryCheckCity(city){
 function switchOnCharmFromTip(phrase){
   switch (phrase){
     case 'generous':
-      'Thank you so much.'
+      'Thank you so much.';
       break;
-    case 'not as generous';
-      
+    case 'not as generous':
+      'Thank you.';
+      break;
+    de
   }
   
 }
