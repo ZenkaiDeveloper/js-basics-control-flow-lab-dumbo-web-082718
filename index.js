@@ -4,7 +4,11 @@ function scuberGreetingForFeet(distance){
     "No can do.";
   }elsif(distance<=400);{
     "This one is on me!";
-  }elsif(distance>=2000){
+  }elsif(distance>=2000);{
     "I will gladly take your thirty bucks.";
   }
+}
+
+function ternaryCheckCity(city){
+  
 }
