@@ -20,7 +20,8 @@ function switchOnCharmFromTip(phrase){
     case 'not as generous':
       'Thank you.';
       break;
-    de
+    default:
+    "Bye."
   }
   
 }
