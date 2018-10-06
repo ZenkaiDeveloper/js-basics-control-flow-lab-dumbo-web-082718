@@ -1,10 +1,10 @@
 function scuberGreetingForFeet(distance){
   if(distance>2500){
-    "No can do.";
+   return  "No can do.";
   }else if(distance<=400){
-    "This one is on me!";
+   return  "This one is on me!";
   }else if(distance>=2000){
-    "I will gladly take your thirty bucks.";
+   return  "I will gladly take your thirty bucks.";
   }
 }
 
@@ -13,15 +13,17 @@ function ternaryCheckCity(city){
 }
 
 function switchOnCharmFromTip(phrase){
+  var ans="";
   switch (phrase){
     case 'generous':
-      'Thank you so much.';
+      ans = 'Thank you so much.';
       break;
     case 'not as generous':
-      'Thank you.';
+      ans= 'Thank you.';
       break;
     default:
-    "Bye."
+    ans = "Bye.";
   }
+  return ans;
   
 }
